@@ -6,7 +6,7 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=53% align="center" src="https://github-readme-stats.vercel.app/api?username=mathewalves&theme=tokyonight&show_icons=true" />
+ <img width=53% align="center" src="https://github-readme-stats.vercel.app/api?username=mathewalves&theme=tokyonight&show_icons=true&rank_icon=github" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewalves&layout=compact&theme=tokyonight" />
 </div>
 
@@ -21,6 +21,7 @@
 #### Studying in this moment:
 [<img height="48px" width="48px" alt="C++"             src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com)
 [<img height="48px" width="48px" alt="js" src="https://skillicons.dev/icons?i=nodejs"/>]()
+[<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>]()
 
 [<img height="48px" width="48px" alt="aws" src="https://skillicons.dev/icons?i=aws"/>]()
 [<img height="48px" width="48px" alt="azure" src="https://skillicons.dev/icons?i=azure"/>]()
@@ -34,10 +35,9 @@
   [<img height="48px" width="48px" alt="GitLab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/mathewalves)
   
   [<img height="48px" width="48px" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org)
-  [<img height="48px" width="48px" alt="Vim" src="https://skillicons.dev/icons?i=vim"/>](https://www.linux.org)
+  [<img height="48px" width="48px" alt="Vim" src="https://skillicons.dev/icons?i=neovim"/>](https://www.linux.org)
 
 #### Others:
-[<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>]()
  [<img height="48px" width="48px" alt="Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
 
 <br>
@@ -50,6 +50,11 @@
 Skills: `C++` `MySQL` `C#` `PHP` `Web development` `Requirements Engineering` `Software Architecture`
 `Project Management` `Software Development` `Software Quality`
 `Software Engineering`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"/>](https://www.dio.me/users/mateus_alves274)
+**Devops Engineer Career** \
+[**DIO**](https://www.dio.me/users/mateus_alves274)  • In progress\
+Skills: `DevOps` `AWS` `Azure` `JavaScript`
 
 <br>
 
