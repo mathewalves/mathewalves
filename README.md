@@ -20,11 +20,10 @@
 
 #### Studying in this moment:
 [<img height="48px" width="48px" alt="C++"             src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com)
-[<img height="48px" width="48px" alt="js" src="https://skillicons.dev/icons?i=nodejs"/>]()
 [<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>]()
 
 [<img height="48px" width="48px" alt="aws" src="https://skillicons.dev/icons?i=aws"/>]()
-[<img height="48px" width="48px" alt="azure" src="https://skillicons.dev/icons?i=azure"/>]()
+[<img height="48px" width="48px" alt="azure" src="https://skillicons.dev/icons?i=azure"/>](https://learn.microsoft.com/pt-br/users/mateusalves-9779/)
 [<img height="48px" width="48px" alt="docker" src="https://skillicons.dev/icons?i=docker"/>]()
 
 
