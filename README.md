@@ -31,13 +31,9 @@
 #### Tools:
   [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/mathewalves)
-  [<img height="48px" width="48px" alt="GitLab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/mathewalves)
+ 
   
   [<img height="48px" width="48px" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org)
-  [<img height="48px" width="48px" alt="Vim" src="https://skillicons.dev/icons?i=neovim"/>](https://www.linux.org)
-
-#### Others:
- [<img height="48px" width="48px" alt="Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
 
 <br>
 
