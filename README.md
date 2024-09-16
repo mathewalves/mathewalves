@@ -20,20 +20,20 @@
 
 #### Studying in this moment:
 [<img height="48px" width="48px" alt="C++"             src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com)
+[<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>]()
 [<img height="48px" width="48px" alt="PHP" src="https://skillicons.dev/icons?i=php"/>]()
 
-[<img height="48px" width="48px" alt="aws" src="https://skillicons.dev/icons?i=aws"/>]()
-[<img height="48px" width="48px" alt="azure" src="https://skillicons.dev/icons?i=azure"/>](https://learn.microsoft.com/pt-br/users/mateusalves-9779/)
+
 [<img height="48px" width="48px" alt="docker" src="https://skillicons.dev/icons?i=docker"/>]()
+[<img height="48px" width="48px" alt="kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/>]()
+[<img height="48px" width="48px" alt="azure" src="https://skillicons.dev/icons?i=azure"/>](https://learn.microsoft.com/pt-br/users/mateusalves-9779/)
 
 
 
 #### Tools:
   [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/mathewalves)
- 
-  
-  [<img height="48px" width="48px" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org)
+ [<img height="48px" width="48px" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org)
 
 <br>
 
@@ -49,7 +49,7 @@ Skills: `C++` `MySQL` `C#` `PHP` `Web development` `Requirements Engineering` `S
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"/>](https://www.dio.me/users/mateus_alves274)
 **Devops Engineer Career** \
 [**DIO**](https://www.dio.me/users/mateus_alves274)  • In progress\
-Skills: `DevOps` `AWS` `Azure` `JavaScript`
+Skills: `Docker` `Linux` `Python` `PHP` `JavaScript` `DevOps` `AWS` `Azure`
 
 <br>
 
