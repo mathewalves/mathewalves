@@ -3,14 +3,6 @@
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
 
-<br>
-
-<div align="center" style="margin-bottom:200px">
- <img width=53% align="center" src="https://github-readme-stats.vercel.app/api?username=mathewalves&theme=tokyonight&show_icons=true&rank_icon=github" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewalves&layout=compact&theme=tokyonight" />
-</div>
-
-
 ## Skills, Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
